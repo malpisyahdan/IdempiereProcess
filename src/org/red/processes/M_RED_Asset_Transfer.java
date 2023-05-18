@@ -9,6 +9,6 @@ public class M_RED_Asset_Transfer extends X_RED_Asset_Transfer{
 		// TODO Auto-generated constructor stub
 	}
 
-	private static final long serialVersionUID = 1L;
+
 
 }
